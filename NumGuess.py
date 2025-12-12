@@ -1,6 +1,6 @@
 import random #bring in the random number
 import time
-number=random.randint(1, 200) #pick the number between 1 and 200
+number=random.randint(1, 100) #pick the number between 1 and 100
 
 def intro():
     global name
